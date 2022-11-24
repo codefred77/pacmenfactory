@@ -7,7 +7,7 @@ at their own pace.
 
 ## How to run
 Load the index.html page into your browser and click the [Add PacMan] button multiple
-times for multiple Pacmen. Then click [Start Game]
+times for multiple Pacmen. Then click [Start Animation]
 
 ## Future improvements
 Change Pacmen colors?
