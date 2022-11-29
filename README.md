@@ -10,7 +10,8 @@ Load the index.html page into your browser and click the [Add PacMan] button mul
 times for multiple Pacmen. Then click [Start Animation]
 
 ## Future improvements
-Change Pacmen colors?
+- Change Pacmen colors?
+- Change Pacman orientation when direction flips
 
 ## License
 MIT License
